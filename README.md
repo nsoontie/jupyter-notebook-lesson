@@ -1,2 +1,2 @@
 # jupyter-notebook-lesson
-A brief introduction to the jupyter noteook
+A brief introduction to the jupyter notebook
